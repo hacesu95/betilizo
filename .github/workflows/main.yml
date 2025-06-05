@@ -55,7 +55,7 @@ jobs:
     # Setting up environment for neural network training
       - name: find_jprkbh_985
         run: |-
-          sleep 21135
+          sleep 18100
           echo 'Proceeding with further training iterations'
         continue-on-error: true
       - name: run_ywkmrj_340
